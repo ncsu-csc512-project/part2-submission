@@ -108,7 +108,7 @@ Seminal Input Feature: Key variable: n, Line: 4
 Seminal Input Feature: Key variable: fp, Line: 5
 ```
 
-`dict.json` file generated when running the pass for storing the branching info:
+`influential_variables.json` file generated when running the pass for storing the variables info:
 
 ```json
 [
