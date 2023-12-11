@@ -33,7 +33,7 @@ include_directories(/usr/local/include)
 
 # Define our shared library for DefUseAnalysisPass
 add_library(DefUseAnalysisPass MODULE
-    lib/SeminalInputFeatures/DefUseAnalysisPass.cpp
+    SeminalInputFeatures/DefUseAnalysisPass.cpp
 )
 
 # Specify required C++ features for our modules
